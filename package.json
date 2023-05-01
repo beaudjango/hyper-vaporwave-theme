@@ -1,0 +1,21 @@
+{
+    "name": "hyper-vaporwave-theme",
+    "version": "1.0.0",
+    "description": "A Vaporwave theme for Hyper terminal",
+    "main": "index.js",
+    "repository": "https://github.com/beaudjango/hyper-vaporwave-theme",
+    "license": "MIT",
+    "keywords": [
+      "hyper",
+      "hyper-plugin",
+      "hyper-theme",
+      "vaporwave"
+    ],
+    "hyper": {
+      "type": "theme"
+    },
+    "engines": {
+      "hyper": ">=3"
+    }
+  }
+  
